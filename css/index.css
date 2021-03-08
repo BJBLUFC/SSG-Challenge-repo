@@ -17,7 +17,7 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--white);
+  background-color: var(--gray);
 }
 p:last-child {
   margin-bottom: 0;
@@ -45,6 +45,9 @@ main :first-child {
 }
 header {
   border-bottom: 1px dashed var(--lightgray);
+  background-color: var(--gray);
+  text-align: center;
+  color:
 }
 header:after {
   content: "";
